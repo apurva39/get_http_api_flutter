@@ -1,0 +1,68 @@
+
+//arrayOfObjects
+
+//[
+//  {
+//
+//  "name": "apurva",
+//  "roll": 2002683,
+//  "sec": "A",
+//  "hobbies": {
+//    "hobiesName": {
+//      "hNmae": {
+//
+//      }
+//    }
+//  },
+//  "phone": "8340776554"
+//
+//},
+//  {
+//
+//  "name": "apurva",
+//  "roll": 2002683,
+//  "sec": "A",
+//  "hobbies": {
+//    "hobiesName": {
+//      "hNmae": {
+//
+//      }
+//    }
+//  },
+//  "phone": "8340776554"
+//
+//},
+//
+//  {
+//
+//    "name": "apurva",
+//    "roll": 2002683,
+//    "sec": "A",
+//    "hobbies": {
+//      "hobiesName": {
+//        "hNmae": {
+//
+//        }
+//      }
+//    },
+//    "phone": "8340776554"
+//
+//  },
+//
+//  {
+//
+//  "name": "apurva",
+//  "roll": 2002683,
+//  "sec": "A",
+//  "hobbies": {
+//    "hobiesName": {
+//      "hNmae": {
+//
+//      }
+//    }
+//  },
+//  "phone": "8340776554"
+//
+//},
+//
+//]
