@@ -39,7 +39,13 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-          title: Center(child: Text("Get Json Api")),
+          title: Center(child: Text("Get Json Api",
+          style: TextStyle(
+            fontSize: 20,
+            fontWeight: FontWeight.bold,
+            color: Colors.black87,
+          ),)),
+        backgroundColor: Colors.white,
     ),
       body: FutureBuilder(
         future: getPost(),
